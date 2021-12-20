@@ -4,6 +4,8 @@ An easy pet system for your roblox game
 
 This project was edited by me. Found on internet.
 
+EDIT : This might not work. You need few specific other folders 
+
 ## If you don't understand the sourcecode, then just download the release and launch it to roblox studio.
 
 Install path to roblox studio : %localappdata%\Roblox\Versions
